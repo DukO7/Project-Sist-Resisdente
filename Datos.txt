@@ -1,0 +1,10 @@
+NoControl      8
+PeriodoEsco   20
+NomProyecto  150
+Empresa      200
+Departamento 100
+AsesorExt     70
+PeriodoRede    *
+PeriodoRea     *
+NomAlumno     70
+Calificacion  min 0 max 100
